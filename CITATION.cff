@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: Weak Scaling Visualization Algorithms
+message: >-
+  If you use this code, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Marvin
+    family-names: Petersen
+    email: m.petersen@rptu.de
+    orcid: 'https://orcid.org/0000-0003-2324-9661'
+    affiliation: University of Kaiserlautern-Landau (RPTU)
+  - given-names: Jonas
+    family-names: Lukasczyk
+    email: j.lukasczyk@rptu.de
+    affiliation: University of Kaiserslautern-Landau (RPTU)
+    orcid: 'https://orcid.org/0000-0001-6650-770X'
+  - given-names: Christoph
+    family-names: Garth
+    affiliation: University of Kaiserslautern-Landau (RPTU)
+    email: garth@rptu.de
+    orcid: 'https://orcid.org/0000-0003-1669-8549'
+abstract: >-
+  This repository contains the code for replicating the
+  experiments in the corresponding paper "Evaluating and
+  Improving Weak Scalability Analysis of Visualization
+  Algorithms" submitted to IJHPCA.
+keywords:
+  - weak-scalability
+  - shared-memory parallelism
+  - scientific visualization
+  - empirical performance analysis
+  - data scaling methods
+  - workload estimation
+date-released: '2025-04-22'

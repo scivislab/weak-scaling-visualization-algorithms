@@ -1,4 +1,4 @@
-# Revisiting Weak Scalability of Visualization Algorithms on Scaled Data Sets
+# Evaluating and Improving Weak Scalability Analysis of Visualization Algorithms
 
 This is a short description on how to use the accompanying code to replicate the experiments.
 The default values are chosen s.t. it should be able to run on a smaller machine. 
