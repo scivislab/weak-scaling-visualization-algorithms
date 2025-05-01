@@ -4,7 +4,7 @@ This is a short description on how to use the accompanying code to replicate the
 The default values are chosen s.t. it should be able to run on a smaller machine. 
 Thus, scaling is done only up to 4 cores, but this can be changed. 
 Instructions are written below.
-This example was tested on a machine running Ubuntu 22.04.
+This example was tested on a machine running Ubuntu 22.04 and the execution environment, available via docker container, is built for amd64 platforms.
 
 ## Prerequisites
 
